@@ -1,0 +1,1 @@
+﻿document.write('<script type="text/javascript" charset="UTF-8" src="http://message.csdn.net/msg.popup.js"><'+'/script>');
